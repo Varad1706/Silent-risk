@@ -12,26 +12,26 @@ Many health risks develop silently — SilentRisk focuses on catching those warn
 
 🎯 Objectives
 
-Detect early health risks using everyday smartphone data
+- Detect early health risks using everyday smartphone data
 
-Apply AI/ML models for intelligent health risk prediction
+- Apply AI/ML models for intelligent health risk prediction
 
-Provide timely alerts and basic diagnostic insights
+- Provide timely alerts and basic diagnostic insights
 
-Promote preventive healthcare and user awareness
+- Promote preventive healthcare and user awareness
 
 📊 Data Sources (Examples)
 
 SilentRisk may analyze anonymized smartphone signals such as:
 
-Screen time & usage patterns
+- Screen time & usage patterns
 
-Physical activity indicators
+- Physical activity indicators
 
-Sleep behavior trends
+- Sleep behavior trends
 
-App interaction frequency
+- App interaction frequency
 
-Device sensor data (where permitted)
+- Device sensor data (where permitted)
 
 ⚠️ Privacy-first approach: No raw personal data is shared without consent.
