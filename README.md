@@ -5,20 +5,20 @@ AI System to Detect Early Health Risks Using Daily Smartphone Signals
 
 📌 Overview
 
-SilentRisk is an AI-powered health monitoring system designed to detect early health risks by analyzing daily smartphone signals such as usage patterns, activity data, and behavioral indicators.
-The system aims to identify potential health concerns early, provide a preliminary AI-based diagnosis, and alert users so they can take timely action.
+SilentRisk is an AI-based health surveillance system which is aimed at identifying early health risks by studying the daily smartphone signals including use, activity, and behavioral records. The system is designed to detect open health issues in the initial stage, give a preliminary diagnosis based on artificial intelligence and warn users in order to act promptly.
 
-Many health risks develop silently — SilentRisk focuses on catching those warning signs before they become serious.
+There are a great number of health risks that arise out of silence SilentRisk aims at detecting these red flags before they become dangerous.
+
 
 🎯 Objectives
 
-- Detect early health risks using everyday smartphone data
+- Identify possible health threats at an early stage based on daily smartphone information.
 
-- Apply AI/ML models for intelligent health risk prediction
+- Intelligent prediction of health risk using AI/ML models.
 
-- Provide timely alerts and basic diagnostic insights
+- Issue early notices and fundamental diagnosis.
 
-- Promote preventive healthcare and user awareness
+- Market preventative health and awareness.
 
 📊 Data Sources (Examples)
 
